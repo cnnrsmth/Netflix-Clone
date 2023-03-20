@@ -1,6 +1,6 @@
 # Front-end React Netflix-Clone Application
 
-Try it here: tbd
+Try it here: https://netflix-clone-59f8e.web.app/
 
 ## Desktop view
 
