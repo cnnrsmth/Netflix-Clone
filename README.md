@@ -18,7 +18,7 @@ Clone the repo.
 // Install dependencies (in root and client)
 npm install
 
-// Run client and server concurrently
+// Run app
 npm start
 ```
 
